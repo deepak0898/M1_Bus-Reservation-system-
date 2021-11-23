@@ -34,17 +34,17 @@ You've visited this page 2 times. Last visit: 17/11/21
 ## High Level Requirements:
 
 |   ID   |                 Description                          |     status      |
-|        |                                                      |                 |
-|        |                                                      |                 |
-|        |                                                      |                 |
-|        |                                                      |                 |
+| ------ | ---------------------------------------------------  | --------------- |
+|  HLR1  | User can view bus list,book tickets,cancel bookings  |  Implemented    |
+|  HLR2  |                                                      |  Implemented    |
+|  HLR3  |                                                      |  Implemented    |
 ##  Low level Requirements:
 
 |   ID   |                 Description                          |     status      |
-|        |                                                      |                 |
-|        |                                                      |                 |
-|        |                                                      |                 |
-|        |                                                      |                 |
+|------- | ---------------------------------------------------  |---------------- |
+|  LLR1  |                                                      |   Implemented   |
+|  LLR2  |                                                      |   Implemented   |
+|  LLR3  |                                                      |   Implemented  |
 
 
 
