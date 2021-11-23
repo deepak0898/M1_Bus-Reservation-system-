@@ -35,16 +35,16 @@ You've visited this page 2 times. Last visit: 17/11/21
 
 |   ID   |                 Description                          |     status      |
 | ------ | ---------------------------------------------------  | --------------- |
-|  HLR1  | User can view bus list,book tickets,cancel bookings  |  Implemented    |
-|  HLR2  |                                                      |  Implemented    |
-|  HLR3  |                                                      |  Implemented    |
+|  HLR1  | User can able to view bus list                       |  Implemented    |
+|  HLR2  | User can able to book tickets                        |  Implemented    |
+|  HLR3  | Designed to automate online ticket purchasing        |  Implemented    |
 ##  Low level Requirements:
 
 |   ID   |                 Description                          |     status      |
-|------- | ---------------------------------------------------  |---------------- |
-|  LLR1  |                                                      |   Implemented   |
-|  LLR2  |                                                      |   Implemented   |
-|  LLR3  |                                                      |   Implemented  |
+|------- | ---------------------------------------------------  |---------------- |  
+|  LLR1  | User can able to cancel tickets                      |   Implemented   |
+|  LLR2  | User second module helps him to reserve a ticket     |   Implemented   |
+|  LLR3  | Webbased application works within centralized network|   Implemented   |
 
 
 
