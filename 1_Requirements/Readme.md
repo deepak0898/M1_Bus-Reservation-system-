@@ -12,6 +12,7 @@ The focus of the project is to computerize traveling company to manage data, so 
 *With an online booking system, you can require customers to prepay for activities and rentals.
 ~If you run tours and activities in remote areas where you aren’t able to get on the Internet, online booking might not be for you. You’ll need reliable Internet access to check your reservations and to add bookings that are made online.
 ~Online booking software is a great way to attract new customers, many of whom prefer booking online from their computers and mobile devices.
+## 4W's and 1'H
 ## Who:
 The Bus Reservation System is designed to automate online ticket purchasing through an easy-to-use online bus booking system,Embed our online bus ticketing system into your website and enable your customers to book tickets for various routes and destinations. 
 ## What:
