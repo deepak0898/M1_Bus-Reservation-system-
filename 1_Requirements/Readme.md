@@ -6,13 +6,16 @@
 4.View Bus Status
 ## Research
 The focus of the project is to computerize traveling company to manage data, so that all the transactions become fast and there should not be any error in transaction like calculation mistake, bill generation and other things. It replaces all the paper work. It keeps records of all bills also, giving to ensure 100% successful implementation of the computerized Bus reservation system.This reservation system has three modules. First module helps the customer to enquire the availability of seats in a particular bus at particular date. Second module helps him to reserve a ticket. Using third module he can cancel a reserved ticket.
+## Cost and Features and Timeline
+In a smaller company, it might be less costly to handle some exceptional operational tasks by using manpower and manual work, rather than covering those requirements. And often smaller operators simplify their business model to reduce their cost levels.*Capability for Business Analysis*The Current State of Digital Marketing Tools* Passenger Information in Real-Time* Capability of Self-Service*On-Board Registration,Standing in a long queue to book your bus ticket is a history now, because of online bus reservation system
 ## SWOT ANALYSIS
 *Customers who make a decision to book a tour or rental don’t want to wait until you are in the office — they want to lock in the activity on their own schedule. 
 *Customers who book their own reservations are more likely to show up, making no-shows a thing of the past. 
 *With an online booking system, you can require customers to prepay for activities and rentals.
 ~If you run tours and activities in remote areas where you aren’t able to get on the Internet, online booking might not be for you. You’ll need reliable Internet access to check your reservations and to add bookings that are made online.
 ~Online booking software is a great way to attract new customers, many of whom prefer booking online from their computers and mobile devices.
-## 4W's and 1'H
+## 4W's and 1'H 
+
 ## Who:
 The Bus Reservation System is designed to automate online ticket purchasing through an easy-to-use online bus booking system,Embed our online bus ticketing system into your website and enable your customers to book tickets for various routes and destinations. 
 ## What:
